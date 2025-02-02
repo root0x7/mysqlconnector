@@ -1,2 +1,1 @@
-# mysqlconnector
-php mysql connector
+A small class to understand how to connect to mysql in php
